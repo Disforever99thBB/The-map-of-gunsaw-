@@ -1,2 +1,3 @@
 # The-map-of-gunsaw-
 I use the tools in the game to creat some maps with different styles
+Alothough i use MIT license, i still need mind somebody who want to upload to other video website or apps that it won't get any negative messages.But mark me,please......
